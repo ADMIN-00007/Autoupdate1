@@ -15,6 +15,7 @@ C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\refint\Orang
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\OrangeDashBoard.pdb
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\OrangeDashBoard.genruntimeconfig.cache
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\ref\OrangeDashBoard.dll
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\OrangeDashBoard.Properties.Resources.resources
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\OrangeDashBoard.dll.manifest
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\OrangeDashBoard.application
 C:\Autoupdate1\OrangeApp\OrangeDashBoard\obj\Release\net6.0-windows\OrangeDashBoard.dll.manifest
