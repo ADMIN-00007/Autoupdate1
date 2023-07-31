@@ -1,0 +1,5 @@
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\app.publish\OrangeDashBoard.exe
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\app.publish\OrangeDashBoard.dll
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\app.publish\OrangeDashBoard.deps.json
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\app.publish\OrangeDashBoard.runtimeconfig.json
+C:\Autoupdate1\OrangeApp\OrangeDashBoard\bin\Release\net6.0-windows\app.publish\OrangeDashBoard.pdb
